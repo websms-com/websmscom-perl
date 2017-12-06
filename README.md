@@ -34,8 +34,8 @@ Installation Instructions
 Sample Scripts
 -------------------------
   
-  *  [send_sms.pl]()              (how to use WebsmsComToolkit.pm)
-  *  [send_sms_quick_sample.pl]()  (how to do it without WebsmsComToolkit.pm)
+  *  [send_sms.pl](send_sms.pl)              (how to use WebsmsComToolkit.pm)
+  *  [send_sms_quick_sample.pl](send_sms_quick_sample.pl)  (how to do it without WebsmsComToolkit.pm)
   *  See POD of WebsmsComToolkit.pm
 
   
